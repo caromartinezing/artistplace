@@ -57,6 +57,16 @@ a:active {
   text-decoration: underline;
   text-decoration-style: solid; }
 
+.soporte {
+  text-decoration: none !important;
+  color: gray !important;
+}
+.soporte:hover {
+  color:white !important;
+}
+.texto-home {
+  color:white !important;
+}
 /*
  * Search and File Block button styles.
  * Necessary until the following issues are resolved in Gutenberg:
@@ -840,13 +850,21 @@ header .wp-block-buttons .wp-block-button__link {
 @media screen and (max-width: 74.9375em) {
   .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container {
     padding-top: 0;
-    padding-bottom: 0; }
+    padding-bottom: 0; 
+  }
 
   .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__submenu-container,
   .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-navigation__container {
-    gap: 0; } }
+    gap: 0; 
+  } }
 .wp-block-main-header .wp-block-navigation {
-  margin-left: auto; }
+  margin-left: 0; 
+  }
+/* ----------------------- */
+  .wp-block-navigation {
+    width: 70% !important;
+  }
+/* ---------------------------- */
 
 .wp-block-navigation .wp-block-navigation-item a:hover,
 .wp-block-navigation .wp-block-navigation-item a:focus {
@@ -1798,7 +1816,8 @@ header.wp-block-template-part {
   margin-left: 1px; }
 
 .wp-block-main-header .wp-block-main-header-container {
-  justify-content: flex-end; }
+  justify-content: flex-end;
+ }
 
 .wp-block-main-header .wp-block-navigation .wp-block-page-list,
 .wp-block-main-header .wp-block-main-header-container,

@@ -1,0 +1,16 @@
+2023-10-30T02:07:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 536
+
+2023-10-30T02:07:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 536
+
+2023-10-30T02:07:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 536
+
+2023-10-30T02:08:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\file.php en la línea 410
+
+2023-10-30T02:08:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 536
+
+2023-10-30T02:08:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 536
+
+2023-10-30T02:09:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\file.php en la línea 904
+
+2023-10-30T02:10:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 5242880 bytes) en C:\apache\htdocs\artistplace\wp-admin\includes\media.php en la línea 1043
+
